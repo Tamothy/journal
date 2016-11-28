@@ -35,3 +35,5 @@ HTML
 ### License
 
 This software is licensed under the MIT license.
+
+Copyright (c) 2016 **Tam Nguyen**
